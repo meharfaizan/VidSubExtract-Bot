@@ -3,3 +3,4 @@ tgcrypto
 requests
 pytesseract
 Pillow
+https://github.com/samadii/VidSubExtract-Bot
